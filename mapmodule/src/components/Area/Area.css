@@ -1,0 +1,58 @@
+.AreaContent{
+    height: 75px;
+    border-top: 2px solid rgb(239, 240, 241);
+    padding-top: 2%;
+    padding-left: 20px;
+}
+
+.AreaLabel{
+    width: 253px;
+}
+
+.edit{
+    margin-right: 8px;
+}
+
+.edit:hover{
+    color: white;
+}
+
+#area{
+    float: left;
+}
+
+
+h5{
+    font-weight: normal;
+    font-size: 20px;
+}
+
+i {
+    float: left;
+    font-size: 21px;
+}
+
+.modal .modal-header, .modal .modal-body, .modal .modal-footer {
+    padding: 20px 30px;
+}
+
+.modal .modal-footer {
+    background: #ecf0f1;
+    border-radius: 0 0 3px 3px;
+}
+
+.modal .btn {
+    border-radius: 2px;
+    min-width: 100px;
+}	
+
+.btnCancelModal{
+    background-color: rgb(80, 80, 90);
+    border-radius: 2px;
+    min-width: 70px;
+}
+
+.btnCancelModal:hover{
+    color: white;
+    background-color: rgb(52, 58, 64);
+}

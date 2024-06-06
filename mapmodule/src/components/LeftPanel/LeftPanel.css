@@ -1,0 +1,6 @@
+#sidebar {
+    min-width: 400px;
+    max-width: 400px;
+    height: calc(100vh - 74px);
+    overflow: auto;
+}

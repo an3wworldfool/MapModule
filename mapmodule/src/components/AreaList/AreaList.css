@@ -1,0 +1,44 @@
+.btnDiv{
+    height: auto;
+    padding-right: 5%;
+    padding-left: 5%;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    border-top: 2px solid rgb(239, 240, 241);
+}
+
+.totalAreaDiv{
+    height: auto;
+    padding-right: 5%;
+    padding-left: 5%;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    border-top: 2px solid rgb(239, 240, 241);
+}
+
+.btn {
+    color: #fff;
+    font-size: 14px;
+    border: none;
+    border-radius: 2px;
+    outline: none !important;
+}
+
+.btnNewArea {
+    width: 90px;
+    margin-top: 3px;
+}
+
+
+#iAddArea {
+    margin-right: 5px;
+}
+
+h5{
+    display: inline;
+}
+
+.h5Area{
+    color: rgb(0, 105, 217);
+}
+

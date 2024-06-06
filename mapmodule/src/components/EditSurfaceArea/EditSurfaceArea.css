@@ -1,0 +1,44 @@
+.mainContainer{
+    padding: 5%;
+    border-top: 2px solid rgb(239, 240, 241);
+}
+
+.headerDiv{
+    height: 40px;
+}
+
+.colorDiv{
+    margin-bottom: 5%;
+}
+
+.bottomDiv{
+    padding-top: 5%;
+    float: right;
+}
+
+h5{
+    font-weight: 500;
+}
+
+.btnAdd{
+    min-width: 70px;
+}
+
+.btnCancel{
+    background-color: rgb(80, 80, 90);
+    border-radius: 2px;
+    min-width: 70px;
+    margin-right: 10px;
+}
+
+.btnCancel:hover{
+    color: white;
+    background-color: rgb(52, 58, 64);
+}
+
+.btnColor{
+    height: 35px;
+    width: 35px;
+    border-radius: 50px;
+    margin-right: 16px;
+}
